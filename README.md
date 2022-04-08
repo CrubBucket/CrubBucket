@@ -1,4 +1,4 @@
-### Hi there 👋
+### Catch da vibe🌱
 
 <!--
 **CrubBucket/CrubBucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
