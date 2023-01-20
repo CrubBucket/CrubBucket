@@ -1,7 +1,7 @@
-Header
+
 [![Header](https://github.com/CrubBucket/CrubBucket/blob/main/assets/time-frequency.gif)](https://github.com/CrubBucket)
 
-About me
+##About me
 #### Occupation: 
 >Physicist student
 
@@ -12,7 +12,7 @@ About me
 > 
 > Fun coding 🤡
 
-Languages & Tools which I use:
+## Languages & Tools which I use:
 
 [![Python](https://img.shields.io/badge/Python-45290c?style=for-the-badge&logo=python&logoColor=dabdab)](https://www.python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-45290c?style=for-the-badge&logo=jupyter&logoColor=dabdab)](https://jupyter.org/)
@@ -21,7 +21,7 @@ Languages & Tools which I use:
 [![PyTorch](https://img.shields.io/badge/PyTorch-45290c?style=for-the-badge&logo=pytorch&logoColor=dabdab)](https://pytorch.org)
 [![SKLearn](https://img.shields.io/badge/SciKit&#8210;Learn-45290c?style=for-the-badge&logo=scikitlearn&logoColor=dabdab)](https://scikit-learn.org/stable/index.html)
 
-Languages & Tools which I study:
+## Languages & Tools which I study:
 
 [![SQL](https://img.shields.io/badge/SQL-594442?style=for-the-badge&logo=Postgresql&logoColor=b5aaa7)](https://www.postgresql.org/)
 [![DataGrip](https://img.shields.io/badge/DataGrip-594442?style=for-the-badge&logo=DataGrip&logoColor=b5aaa7)](https://www.postgresql.org/)
