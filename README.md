@@ -3,7 +3,7 @@
 
 ## About me
 ### Occupation: 
-> ##### Physicist student 🗿
+>##### Physicist student 🗿
 
 ### Interested in:
 > #### Data Analysis 📊
