@@ -3,14 +3,14 @@
 
 ## About me
 ### Occupation: 
-> ##### Physicist student 🗿
+> #### Physicist student 🗿
 
 ### Interested in:
-> #### Data Analysis 📊
+> ### Data Analysis 📊
 >
-> #### Machine Learning 🤖
+> ### Machine Learning 🤖
 > 
-> ##### Fun coding 🤡
+> ### Fun coding 🤡
 
 ## Languages & Tools which I use:
 
