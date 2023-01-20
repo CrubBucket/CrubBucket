@@ -1,7 +1,7 @@
 
-[![Header](https://github.com/CrubBucket/CrubBucket/blob/main/assets/time-frequency.gif)](https://github.com/CrubBucket)
+[![Header](https://github.com/CrubBucket/CrubBucket/blob/main/assets/downsign-loading.gif)](https://github.com/CrubBucket)
 
-##About me
+## About me
 #### Occupation: 
 >Physicist student
 
@@ -28,4 +28,4 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-594442?style=for-the-badge&logo=TensorFlow&logoColor=b5aaa7)](https://www.postgresql.org/)
 
 ### I'm open for cooperation in kaggle competitions
-[![Kaggle](https://img.shields.io/badge/Kaggle-1e90ff?style=for-the-badge&logo=kaggle&logoColor=fffafa)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-1e90ff?style=for-the-badge&logo=kaggle&logoColor=fffafa)](https://www.kaggle.com/crubbucket)
