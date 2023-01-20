@@ -2,15 +2,15 @@
 [![Header](https://github.com/CrubBucket/CrubBucket/blob/main/assets/retro-wave.gif)](https://github.com/CrubBucket)
 
 ## About me
-#### Occupation: 
->Physicist student
+### Occupation: 
+> ##### Physicist student 🗿
 
-#### Interested in:
-> Data Analysis 📊
+### Interested in:
+> #### Data Analysis 📊
 >
-> Machine Learning 🤖
+> #### Machine Learning 🤖
 > 
-> Fun coding 🤡
+> ##### Fun coding 🤡
 
 ## Languages & Tools which I use:
 
@@ -29,5 +29,3 @@
 
 ### I'm open for cooperation in kaggle competitions
 [![Kaggle](https://img.shields.io/badge/Kaggle-1e90ff?style=for-the-badge&logo=kaggle&logoColor=fffafa)](https://www.kaggle.com/crubbucket)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crubbucket&show_icons=true&theme=radical&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
